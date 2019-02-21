@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>刘刚的博客</title>
+  
+  <subtitle>热爱分享-热爱开发</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-02-19T14:03:45.815Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>刘刚</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test</title>
+    <link href="http://yoursite.com/2019/02/19/Test/"/>
+    <id>http://yoursite.com/2019/02/19/Test/</id>
+    <published>2019-02-19T08:13:07.003Z</published>
+    <updated>2019-02-19T14:03:45.815Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;测试&quot;&gt;&lt;a href=&quot;#测试&quot; class=&quot;headerlink&quot; title=&quot;测试&quot;&gt;&lt;/a&gt;测试&lt;/h1&gt;
+      
+    
+    </summary>
+    
+      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/02/19/hello-world/"/>
+    <id>http://yoursite.com/2019/02/19/hello-world/</id>
+    <published>2019-02-19T07:08:32.984Z</published>
+    <updated>2019-02-21T01:15:06.126Z</updated>
+    
+    <content type="html"><![CDATA[<p>一条有梦想的咸鱼的个人博客</p><h1 id="欢迎"><a href="#欢迎" class="headerlink" title="欢迎!"></a>欢迎!</h1><h1 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h1><p>1       hello world  </p><h1 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h1><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="hello-world/1.png" alt="图片测试" title>                </div>                <div class="image-caption">图片测试</div>            </figure><h1 id="音乐测试"><a href="#音乐测试" class="headerlink" title="音乐测试"></a>音乐测试</h1><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=444323757&auto=1&height=66"></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;一条有梦想的咸鱼的个人博客&lt;/p&gt;
+&lt;h1 id=&quot;欢迎&quot;&gt;&lt;a href=&quot;#欢迎&quot; class=&quot;headerlink&quot; title=&quot;欢迎!&quot;&gt;&lt;/a&gt;欢迎!&lt;/h1&gt;&lt;h1 id=&quot;第一篇文章&quot;&gt;&lt;a href=&quot;#第一篇文章&quot; class=&quot;headerlink&quot;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
