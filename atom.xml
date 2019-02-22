@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-19T14:03:45.815Z</updated>
+  <updated>2019-02-22T09:53:14.696Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>［酷派8076 ROM］KitkatV3-180302 超精简流畅终结版</title>
+    <link href="http://yoursite.com/2019/02/22/kitka/"/>
+    <id>http://yoursite.com/2019/02/22/kitka/</id>
+    <published>2019-02-22T09:37:10.000Z</published>
+    <updated>2019-02-22T09:53:14.696Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="作者：墨迹未干的爱（我的贴吧-id）"><a href="#作者：墨迹未干的爱（我的贴吧-id）" class="headerlink" title="作者：墨迹未干的爱（我的贴吧 id）"></a>作者：墨迹未干的爱（我的贴吧 id）</h1><h1 id="原包作者：-ediyi-贴吧-id"><a href="#原包作者：-ediyi-贴吧-id" class="headerlink" title="原包作者：@ediyi (贴吧 id)"></a>原包作者：@ediyi (贴吧 id)</h1><p>本包移植于天语t619<br>更新：18/03/02<br>版本：Kitkat V3 终结版<br>特点：添加英文支持<br>自带ROOT权限<br>全局背景换为黑色<br>去除滑动回弹效果<br>Rom内存进行优化，与kkv1相佛<br>Rom精简至48.76M，System占用80.71M<br>下拉栏-第三分页-“防火墙”换为“记事本”<br>浏览器替换为Via浏览器仅372.83KB<br>去除软件备份，录音机APP<br>BUG：无法开启AP热点分享，设置内的更多选项闪退</p><h1 id="精仿HOLO锁屏界面"><a href="#精仿HOLO锁屏界面" class="headerlink" title="精仿HOLO锁屏界面"></a>精仿HOLO锁屏界面</h1><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="/kitka/锁屏.jpg" alt title>                </div>                <div class="image-caption"></div>            </figure><h1 id="精仿HOLO桌面布局"><a href="#精仿HOLO桌面布局" class="headerlink" title="精仿HOLO桌面布局"></a>精仿HOLO桌面布局</h1><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="kitka/桌面.jpg" alt title>                </div>                <div class="image-caption"></div>            </figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;作者：墨迹未干的爱（我的贴吧-id）&quot;&gt;&lt;a href=&quot;#作者：墨迹未干的爱（我的贴吧-id）&quot; class=&quot;headerlink&quot; title=&quot;作者：墨迹未干的爱（我的贴吧 id）&quot;&gt;&lt;/a&gt;作者：墨迹未干的爱（我的贴吧 id）&lt;/h1&gt;&lt;h1 id=&quot;原
+      
+    
+    </summary>
+    
+      <category term="刷机包" scheme="http://yoursite.com/categories/%E5%88%B7%E6%9C%BA%E5%8C%85/"/>
+    
+    
+      <category term="Rom" scheme="http://yoursite.com/tags/Rom/"/>
+    
+      <category term="酷派8076" scheme="http://yoursite.com/tags/%E9%85%B7%E6%B4%BE8076/"/>
+    
+  </entry>
   
   <entry>
     <title>Test</title>
